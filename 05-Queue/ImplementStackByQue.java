@@ -32,12 +32,12 @@ static class MyStack {
 };
     public static void main(String[] args) {
        MyStack s = new MyStack();
-       s.push(1);
-         s.push(2);
+        s.push(1);
+        s.push(2);
         s.push(3);
         System.out.println(s.top());
         System.out.println(s.pop());
         System.out.println(s.empty());
     
-    }
+    }    
 }
