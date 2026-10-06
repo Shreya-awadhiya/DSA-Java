@@ -1,4 +1,4 @@
-public class RemoveDuplicte {
+public class RemoveDuplicate {
   
      public static int removeDuplicates(int[] nums) {
     
